@@ -7,6 +7,10 @@ android {
     namespace = "com.ismailmesutmujde.kotlindarkmode"
     compileSdk = 34
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.ismailmesutmujde.kotlindarkmode"
         minSdk = 24

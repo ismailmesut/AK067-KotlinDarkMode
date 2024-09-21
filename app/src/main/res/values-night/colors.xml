@@ -10,8 +10,6 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
 
-    <color name="textColor">#3F51B5</color>
-    <color name="buttonTextColor">#FFFFFFFF</color>
-    <color name="buttonTextColorNight">#FF000000</color>
-    <color name="buttonColor">#009688</color>
+    <color name="textColor">#FFEB3B</color>
+    <color name="buttonColor">#FF9800</color>
 </resources>
